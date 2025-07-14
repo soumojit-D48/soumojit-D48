@@ -15,7 +15,7 @@
 
 ### 🌱 About Me
 
-- 🌿 I’m currently learning **React, Redux Toolkit**
+- 🌿 I’m currently learning **React.js**
 - 💡 I enjoy building real-world apps and mini projects 💻
 - 📌 Check out some of my pinned projects below ⬇️
 - 🛠️  Currently working on backend development while learning React, building full-stack projects.
@@ -87,8 +87,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
+  <img style="background-color:white; padding:5px; border-radius:5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</a>
+
 </p>
 
 <!-- Database -->
