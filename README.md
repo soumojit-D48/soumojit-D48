@@ -15,7 +15,7 @@
 
 ### 🌱 About Me
 
-- 🌿 I’m currently learning **React.js**
+- 🌿 I’m currently learning **Next.js**
 - 💡 I enjoy building real-world apps and mini projects 💻
 - 📌 Check out some of my pinned projects below ⬇️
 - 🛠️  Currently working on backend development while learning React, building full-stack projects.
