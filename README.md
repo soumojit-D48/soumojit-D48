@@ -54,7 +54,7 @@ const soumojit = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" />
 </p>
 
 ### Backend
@@ -84,12 +84,9 @@ const soumojit = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumojitdas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitdas&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
+  
+![Soumojit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumojitdas&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumojitdas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -137,8 +134,8 @@ Check out my **pinned repositories** below for my best work! 👇
 
 <div align="center">
   
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
 
-**⭐ From [soumojitdas](https://github.com/soumojitdas) | Always learning, always building**
+**⭐ From [soumojitdas](https://github.com/soumojit-D48) | Always learning, always building**
 
 </div>
