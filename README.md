@@ -1,105 +1,144 @@
-<h1 align="center">Hi, I'm Soumojit Das</h1>
-<h3 align="center">
-B.Tech CSE '28 | Full Stack Developer | JavaScript | TypeScript | Java | Python | 
-LeetCode Max: 1512
-</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Soumojit Das
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumojitdas&label=Profile%20views&color=0e75b6&style=flat" alt="soumojitdas" />
+### Full Stack Developer | B.Tech CSE '28 | Problem Solver
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=soumojitdas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://soumojit-das-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat&logo=vercel&logoColor=white" />
   </a>
   <a href="https://twitter.com/soumojit_das107" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/soumojit-das-12b678325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🌱 About Me
-
-- 🌿 Currently learning and building with **Next.js & TypeScript**
-- 💡 Love building **real-world full-stack applications**
-- 🛠️ Strong focus on **Backend (FastAPI & Express.js)**
-- 🧠 Practicing **DSA on LeetCode**
-- 📌 Check out my **pinned projects**
-- 🌐 Portfolio: **https://soumojit-das-portfolio.vercel.app/**
-- 📬 Reach me at **soumojitdas107@gmail.com**
-
----
-
-### 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/soumojitbs9g" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/soumojit_das" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-1512-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const soumojit = {
+    education: "B.Tech Computer Science Engineering '28",
+    role: "Full Stack Developer",
+    currentFocus: ["Next.js", "TypeScript", "System Design"],
+    passions: ["Building scalable applications", "Solving complex problems", "Open source"],
+    leetcodeMax: 1512,
+    email: "soumojitdas107@gmail.com"
+};
+```
+
+- 🔭 Building production-ready **full-stack applications** with modern tech
+- 🌱 Deep diving into **Next.js, TypeScript**, and **scalable architectures**
+- 💪 Strong backend expertise with **FastAPI** and **Express.js**
+- 🧩 Sharpening problem-solving skills on **LeetCode** daily
+- 🎯 Open to **collaboration** on interesting projects
+- 💼 Portfolio: **[soumojit-das-portfolio.vercel.app](https://soumojit-das-portfolio.vercel.app/)**
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+  </td>
+  <td valign="top" width="50%">
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### Tools & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,mongodb,postgresql" />
+</p>
+
+  </td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumojitdas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitdas&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumojitdas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 💻 Competitive Programming
+
+<p align="left">
+  <a href="https://www.leetcode.com/soumojit_das" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Max_Rating_1512-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/soumojitbs9g" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/soumojitdas107" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+## 🌟 Featured Projects
 
-<h4>Languages</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</p>
+Check out my **pinned repositories** below for my best work! 👇
 
-<h4>Frontend</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-       style="background:white; padding:5px; border-radius:5px;" width="40"/>
-</p>
+---
 
-<h4>Backend</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-       style="background:white; padding:5px; border-radius:5px;" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-</p>
+## 📫 Let's Connect
 
-<h4>Database</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</p>
-
-<h4>Tools & DevOps</h4>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<p align="center">
+  <a href="mailto:soumojitdas107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/soumojit-das-12b678325">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/soumojit_das107">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://soumojit-das-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Tech Stack Summary
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** FastAPI, Express.js, Node.js  
-**Languages:** JavaScript, TypeScript, Python, Java  
-**Database:** MongoDB, PostgreSQL  
-**DevOps & Tools:** Docker, Git  
+**⭐ From [soumojitdas](https://github.com/soumojitdas) | Always learning, always building**
 
----
-
-⭐ *Always learning, building, and improving.*
+</div>
