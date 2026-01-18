@@ -83,11 +83,9 @@ const soumojit = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Soumojit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumojitdas&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumojit-D48&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
