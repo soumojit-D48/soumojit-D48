@@ -39,7 +39,7 @@ const soumojit = {
 
 - 🔭 Building production-ready **full-stack applications** with modern tech
 - 🌱 Deep diving into **Next.js, TypeScript**, and **scalable architectures**
-- 💪 Strong backend expertise with **FastAPI** and **Express.js**
+- 💪 Strong backend expertise with **Express.js** and **FastAPI**
 - 🧩 Sharpening problem-solving skills on **LeetCode** daily
 - 🎯 Open to **collaboration** on interesting projects
 - 💼 Portfolio: **[soumojit-das-portfolio.vercel.app](https://soumojit-das-portfolio.vercel.app/)**
