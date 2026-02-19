@@ -37,12 +37,12 @@ const soumojit = {
 };
 ```
 
--  Building production-ready **full-stack applications** with modern tech
--  Deep diving into **Next.js, TypeScript**, and **scalable architectures**
--  Strong backend expertise with **Express.js** and **FastAPI**
--  Sharpening problem-solving skills on **LeetCode** daily
--  Open to **collaboration** on interesting projects
--  Portfolio: **[soumojit-das-portfolio.vercel.app](https://soumojit-das-portfolio.vercel.app/)**
+➤  Building production-ready **full-stack applications** with modern tech
+➤  Deep diving into **Next.js, TypeScript**, and **scalable architectures**
+➤  Strong backend expertise with **Express.js** and **FastAPI**
+➤  Sharpening problem-solving skills on **LeetCode** daily
+➤  Open to **collaboration** on interesting projects
+➤  Portfolio: **[soumojit-das-portfolio.vercel.app](https://soumojit-das-portfolio.vercel.app/)**
 
 ---
 
@@ -78,14 +78,6 @@ const soumojit = {
   </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumojit-D48&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
 
 ---
 
