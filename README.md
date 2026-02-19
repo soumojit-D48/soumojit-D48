@@ -36,13 +36,17 @@ const soumojit = {
     email: "soumojitdas107@gmail.com"
 };
 ```
+<div style="max-width: 800px; margin: 0 auto; text-align: center;">
+  <p>
+    ➤ Building production-ready <b>full-stack applications</b> with modern tech <br>
+    ➤ Deep diving into <b>Next.js</b>, <b>TypeScript</b>, and <b>scalable architectures</b> <br>
+    ➤ Strong backend expertise with <b>Express.js</b> and <b>FastAPI</b> <br>
+    ➤ Sharpening problem-solving skills on <b>LeetCode</b> daily <br>
+    ➤ Open to <b>collaboration</b> on interesting projects <br>
+    ➤ Portfolio: <b><a href="https://soumojit-das-portfolio.vercel.app/">soumojit-das-portfolio.vercel.app</a></b>
+  </p>
+</div>
 
-➤  Building production-ready **full-stack applications** with modern tech
-➤  Deep diving into **Next.js, TypeScript**, and **scalable architectures**
-➤  Strong backend expertise with **Express.js** and **FastAPI**
-➤  Sharpening problem-solving skills on **LeetCode** daily
-➤  Open to **collaboration** on interesting projects
-➤  Portfolio: **[soumojit-das-portfolio.vercel.app](https://soumojit-das-portfolio.vercel.app/)**
 
 ---
 
