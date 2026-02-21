@@ -130,6 +130,6 @@ Check out my **pinned repositories** below for my best work! 👇
   
 ### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
 
-**⭐ From [soumojitdas](https://github.com/soumojit-D48) | Always learning, always building**
+**⭐ From [SOUMOJIT-DAS](https://github.com/soumojit-D48) | Always learning, always building**
 
 </div>
