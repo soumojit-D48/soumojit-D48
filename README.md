@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Soumojit Das
 
-### Full Stack Developer | B.Tech CSE '28 | Problem Solver
+### Full Stack Developer | Open Source Contributor | Problem Solver
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=soumojitdas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
