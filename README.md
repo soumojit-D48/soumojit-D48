@@ -76,7 +76,7 @@ const soumojit = {
 
 ### Tools & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,docker,bash,mongodb,postgresql" />
 </p>
 
   </td>
