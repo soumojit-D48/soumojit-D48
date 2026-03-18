@@ -58,7 +58,7 @@ const soumojit = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 </p>
 
 ### Backend
@@ -71,7 +71,7 @@ const soumojit = {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
 
 ### Tools & Database
