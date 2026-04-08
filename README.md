@@ -71,7 +71,7 @@ const soumojit = {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
 </p>
 
 ### Tools & Database
