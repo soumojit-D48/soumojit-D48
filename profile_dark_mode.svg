@@ -1,0 +1,170 @@
+<svg xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     width="985px"
+     height="530px"
+     font-size="16px">
+
+<style>
+@font-face {
+    src: local('Consolas'), local('Consolas Bold');
+    font-family: 'ConsolasFallback';
+    font-display: swap;
+    -webkit-size-adjust: 109%;
+    size-adjust: 109%;
+}
+
+.key {
+    fill: #ffa657;
+}
+
+.value {
+    fill: #a5d6ff;
+}
+
+.addColor {
+    fill: #3fb950;
+}
+
+.delColor {
+    fill: #f85149;
+}
+
+.cc {
+    fill: #616e7f;
+}
+
+.ascii {
+    fill: #c9d1d9;
+    font-size: 13px;
+}
+
+text,
+tspan {
+    white-space: pre;
+}
+</style>
+
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+
+<text x="15" y="30" class="ascii">
+<tspan x="15" y="30">0OOOOO00OOOo'   .               .lkkxxkxxxxxd</tspan>
+<tspan x="15" y="50">0OOOOO0OOOo.    ...',,;:;,''.   .oOOkkkkkxxxx</tspan>
+<tspan x="15" y="70">OOOOOOO00O,   .,cdkO00000OOkkl.  ;OOkOkkkkkkx</tspan>
+<tspan x="15" y="90">00OOOO0000;. ,xO0KXXXXXXXXX0Ox:  .dOkkkkkkkkx</tspan>
+<tspan x="15" y="110">OOOOOO0000d..lO0KKXXKKXXXKKK0ko  .kOkkkkkkkkx</tspan>
+<tspan x="15" y="130">OOOOOOOOO0d  olcldxkO0K0xl:;;:o. o0Okkkxkkkkx</tspan>
+<tspan x="15" y="150">OkkkkkOkOOx' c;;,..';dx:,;.::cl.,x0Okkkkkkxkx</tspan>
+<tspan x="15" y="170">OkkkkkkkkOOO.lloOcxxlkOoxOlOkdo'dO0Okkkkkxkkx</tspan>
+<tspan x="15" y="190">OOkkkkkkkk00ookKXKKOkKXOOXKXKOo:x00OOkkxkxkkx</tspan>
+<tspan x="15" y="210">OOOkOkkkkkOOdlk0KXXOkXKxkKXX0Ol:kOOOkkkkkxkkx</tspan>
+<tspan x="15" y="230">OOOkkOkkkkkOOldkOOOk,:;'ckkOkdoO0OOkkkkkkkkkx</tspan>
+<tspan x="15" y="250">OOkkkkkkkkkkOOodxc''cxxd:,,colO00Okkkkkxkkkkk</tspan>
+<tspan x="15" y="270">OOOkkkkkkkkOOOOlllkxdxddoxo;;x000OOkkkkkkkkkx</tspan>
+<tspan x="15" y="290">OOkkkkkkkkkOO00xccoOK0K00x;:lO00OOOkkkkkkkkkx</tspan>
+<tspan x="15" y="310">OkkkkkkkkkOO00olkOl:;...''lxx:;O0OOkkkkkkkkkk</tspan>
+<tspan x="15" y="330">OOkkkkkkOOO00c cx00oc:;,;dOkxl.l0K0OOOOOOOkkO</tspan>
+<tspan x="15" y="350">OOkkOOOOO00Oxd;.oOK0kOOkx00Od.,xldO00000OOOOO</tspan>
+<tspan x="15" y="370">OOOOOOOxdc'.cd:'.cO0kdook0Ok,;o,,.'':oddxkO00</tspan>
+<tspan x="15" y="390">0KOddol.::':,;xc,';OK00KX0xcdl:c:;c:;xc,,;;:dx</tspan>
+<tspan x="15" y="410">kxll::;:l;.dl:lk,.;'c0XXk:;oOOko'''ld;;;'';ko</tspan>
+<tspan x="15" y="430">:,,:.'';,',kl::,,,lc::,. .,occc.'..lc'''..od'</tspan>
+<tspan x="15" y="450">d,;,.:.,'::Oxlloo:dl,......,c',''..lc''.,,k;,</tspan>
+<tspan x="15" y="470">xd:';xooxoo0x:;cll0kxddlxdokOllloolOk:ccodkc;</tspan>
+<tspan x="15" y="490">:Kk;llc:,',kc....'l;,'..,'.lo'..'..lo;ccclcl,</tspan>
+<tspan x="15" y="510">,Oc ;c:;;;:kl'.'.'l....''..lo''''..ll',;; '..</tspan>
+</text>
+
+
+<text x="390" y="30" fill="#c9d1d9">
+
+<tspan x="390" y="30">soumojit-D48@github</tspan> -———————————————————————————————————————————-—- 
+
+
+<tspan x="390" y="50" class="cc">. </tspan>
+<tspan class="key">ROLE</tspan>:<tspan class="cc"> ...................... </tspan>
+<tspan class="value">Full-Stack &amp; AI Developer</tspan>
+
+<tspan x="390" y="70" class="cc">. </tspan>
+<tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan>
+<tspan class="value">Windows, WSL</tspan>
+
+<tspan x="390" y="90" class="cc">. </tspan>
+<tspan class="key">Learning</tspan>:<tspan class="cc"> ................ </tspan>
+<tspan class="value">AI Agents, System Design</tspan>
+
+<tspan x="390" y="110" class="cc">. </tspan>
+<tspan class="key">OpenSource</tspan>:<tspan class="cc"> ................ </tspan>
+<tspan class="value">Contributor &amp; Builder</tspan>
+
+<tspan x="390" y="130" class="cc">. </tspan>
+<tspan class="key">IDE</tspan>:<tspan class="cc"> ..................... </tspan>
+<tspan class="value">VSCode, Antigravity, Cursor</tspan>
+
+<tspan x="390" y="150" class="cc">. </tspan>
+
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan>
+<tspan class="value">TypeScript, Python, Java</tspan>
+
+<tspan x="390" y="190" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan>
+<tspan class="value">HTML, CSS, JSON, YAML</tspan>
+
+<tspan x="390" y="210" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .............. </tspan>
+<tspan class="value">English, Hindi, Bengali</tspan>
+
+
+<tspan x="390" y="230" class="cc">. </tspan>
+
+<tspan x="390" y="250">- Tech Stack</tspan> -———————————————————————————————————————————-—-
+
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan>
+<tspan class="value">Next.js, React</tspan>
+
+<tspan x="390" y="290" class="cc">. </tspan>
+<tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan>
+<tspan class="value">Node.js, FastAPI</tspan>
+
+<tspan x="390" y="310" class="cc">. </tspan>
+<tspan class="key">Stack</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> ............. </tspan>
+<tspan class="value">PostgreSQL, MongoDB</tspan>
+
+<tspan x="390" y="330" class="cc">. </tspan>
+<tspan class="key">Stack</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ............... </tspan>
+<tspan class="value">Git, Docker, CI/CD, K8s</tspan>
+
+<tspan x="390" y="350" class="cc">. </tspan>
+<tspan class="key">Stack</tspan>.<tspan class="key">API</tspan>:<tspan class="cc"> .................. </tspan>
+<tspan class="value">REST, GraphQL, tRPC</tspan>
+
+<tspan x="390" y="370" class="cc">. </tspan>
+<tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> .............. </tspan>
+<tspan class="value">LangGraph, RAG, MCP, AI Agents</tspan>
+
+
+
+<tspan x="390" y="390" class="cc">. </tspan>
+
+<tspan x="390" y="410">- Contact</tspan> -——————————————————————————————————————————————-—-
+
+<tspan x="390" y="430" class="cc">. </tspan>
+<tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan>
+<tspan class="value">soumojitdas107@gmail.com</tspan>
+
+<tspan x="390" y="450" class="cc">. </tspan>
+<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan>
+<tspan class="value">soumojit-das107</tspan>
+
+<tspan x="390" y="470" class="cc">. </tspan>
+<tspan class="key">Discord</tspan>:<tspan class="cc"> ........................ </tspan>
+<tspan class="value">soumojit010</tspan>
+
+<tspan x="390" y="490" class="cc">. </tspan>
+<tspan class="key">X</tspan>:<tspan class="cc"> .............................. </tspan>
+<tspan class="value">Soumojit_Das107</tspan>
+
+</text>
+</svg>
